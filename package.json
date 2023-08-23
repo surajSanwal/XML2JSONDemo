@@ -1,0 +1,23 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "description": "React Native for Web starter template",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@xmldom/xmldom": "0.8.7",
+    "react": "18.2.*",
+    "react-dom": "18.2.*",
+    "react-native-web": "0.19.*",
+    "react-scripts": "3.3.0",
+    "xml-js": "1.6.11",
+    "xml2js": "0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
